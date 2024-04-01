@@ -1,0 +1,50 @@
+1)statically typed prog
+    java,c++,c#,c
+
+we have to provide the data type of the variable before using it    
+
+2)dyamically typed prog
+    python,javascript,ruby,perl
+
+    data type of the variable is decided at runtime
+
+
+1)basci variable, var let const
+2)functions : arrow function, normal function,
+             : callback functions
+3)string              
+4)json
+5)array : -->json array
+6)promise
+7)async await
+-----------------------------------------
+
+server side scripting
+client side scripting : client side....
+
+
+Web page: HTML,
+
+
+3 ways to add javascript code to html page
+
+1)inline
+2)internal
+3)external
+
+
+task:
+5 json objects...
+
+foreach
+map
+filter
+some
+sort
+every
+
+
+
+
+
+
