@@ -61,3 +61,19 @@ var companies = [
 //1)find total salary of google employee
 //find no of female employees accross all companies
 //find no of male employees in amazon
+
+
+//1)find all employees who is working in google
+
+
+var gogoleEmployees = companies.find((company)=>company.name =="Google").employees
+console.log(gogoleEmployees)
+
+var amazonefemales = companies.find((comp)=>comp.name =="Amazon").employees.filter((emp)=>emp.gender =="female")
+console.log(amazonefemales)
+
+
+var googleSalary = companies.find((comp)=>comp.name =="Google")
+.employees.reduce((total,emp)=>total + emp.salary,0)
+
+console.log(googleSalary)
