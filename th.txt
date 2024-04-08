@@ -45,6 +45,33 @@ every
 
 
 
+---------------
+promise...
+
+somthing that will happen in future
+
+pending
+resolve
+reject
+
+
+sync
+line to line execution
+
+###################################################### :- read....
+****************************************************** :
+#*#*#*
+
+
+non sync
+line to line execution is not possible
+
+js is non sync / non blocking
+
+Promise is class in js
+
+
+
 
 
 
